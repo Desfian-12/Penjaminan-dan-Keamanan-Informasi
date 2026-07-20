@@ -1,0 +1,2 @@
+# Nmap 7.99 scan initiated Mon Jul 20 09:37:24 2026 as: nmap -A -oN kemenag.txt www.kemenag.go.id
+# Nmap done at Mon Jul 20 09:37:32 2026 -- 1 IP address (0 hosts up) scanned in 8.23 seconds
